@@ -16,7 +16,7 @@ time, mark, audio, video {
     border: 0;
 }
 body{
-    background-image: url(/pics/planets.jpeg);
+    background-image: url(pics/planets.jpeg);
     background-size: cover;
     display: flex;
     justify-content: flex-end;
